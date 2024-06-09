@@ -17,7 +17,7 @@
 - **传感器集成**：摄像头、声纳、雷达
 
 <div align="center">
-    <img src="https://example.com/amphibious_drone_image.png" alt="Amphibious Drone" width="500"/>
+    <img src="https://github.com/AiChiXiaoXiongBingGan/Path-planning-algorithm-of-UAV/blob/main/mountain.jpg" alt="Terrain modeling" width="500"/>
 </div>
 
 两栖无人机的多功能设计使其能够胜任多种复杂任务，为不同领域提供强大的技术支持。
