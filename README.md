@@ -1,46 +1,43 @@
-# 🌟 两栖无人机简介 🌟
+# 🌟 Amphibious Drone Overview 🌟
 
-## 概述
+## Overview
 
-两栖无人机是一种能够在空中和水中执行任务的无人驾驶飞行器。其设计目的是为了在多种环境中提供灵活的任务执行能力。由于其独特的设计和多功能性，两栖无人机广泛应用于以下领域：
+An amphibious drone is an unmanned aerial vehicle capable of performing tasks both in the air and in the water. It is designed to provide flexible mission execution capabilities in various environments. Due to its unique design and versatility, amphibious drones are widely used in the following fields:
 
-- 🚀 **军事**：侦察、监视、情报收集
-- 🌊 **科学研究**：海洋学、水下地形勘测、水生生物监测
-- 🌿 **环境监测**：水质监测、污染源追踪、生态环境监测
-- 🚁 **搜救行动**：海上搜救、水域救援
+- 🚀 **Military**: Reconnaissance, surveillance, and intelligence gathering
+- 🌊 **Scientific Research**: Oceanography, underwater terrain mapping, and aquatic life monitoring
+- 🌿 **Environmental Monitoring**: Water quality monitoring, pollution source tracking, and ecological environment monitoring
+- 🚁 **Search and Rescue**: Maritime search and rescue, water area rescue
 
-### 设计特点
+### Design Features
 
-- **多环境适应性**：空中飞行、水面运行、水下航行
-- **结构设计**：防水外壳与密封结构
-- **推进系统**：螺旋桨、喷水推进器
-- **传感器集成**：摄像头、声纳、雷达
+- **Multi-environment Adaptability**: Aerial flight, surface operation, underwater navigation
+- **Structural Design**: Waterproof shell and sealed structure
+- **Propulsion System**: Propellers, water jet propulsion
+- **Sensor Integration**: Cameras, sonar, radar
 
 <div align="center">
     <img src="https://github.com/AiChiXiaoXiongBingGan/Path-planning-algorithm-of-UAV/blob/main/mountain.jpg" alt="Terrain modeling" width="500"/>
 </div>
 
-两栖无人机的多功能设计使其能够胜任多种复杂任务，为不同领域提供强大的技术支持。
+The versatile design of amphibious drones enables them to handle various complex tasks, providing robust technical support across different fields.
 
 ---
 
-## 项目文件结构
+## Project File Structure
 
-- 📂 **地形建模**
-  - `defMap.m`：实现对天然山体的建模
+- 📂 **Terrain Modeling**
+  - `defMap.m`: Implements the modeling of natural mountains
 
-- 📂 **粒子群算法**
-  - `PSO.m`：主程序，实现能耗优化后的空潜无人机路径规划
+- 📂 **Particle Swarm Optimization**
+  - `PSO.m`: Main program, realizes energy-optimized UAV path planning
 
-- 📂 **遗传算法**
-  - `GA.m`：主程序，实现能耗优化后的空潜无人机路径规划
+- 📂 **Genetic Algorithm**
+  - `GA.m`: Main program, realizes energy-optimized UAV path planning
 
-- 📂 **多空潜无人机协同**
-  - `MU_UAV.m`：主程序，实现能耗优化后的多空潜无人机协同任务规划
+- 📂 **Multi-UAV Coordination**
+  - `MU_UAV.m`: Main program, realizes energy-optimized multi-UAV collaborative mission planning
 
 ---
 
-通过对这些模块的综合运用，能够有效实现两栖无人机在多种复杂环境下的任务规划与执行，进一步提高任务的成功率和效率。
-
-
-
+By integrating these modules, effective amphibious UAV mission planning and execution can be achieved in various complex environments, further enhancing task success rates and efficiency.
